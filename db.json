@@ -83,6 +83,34 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2023-03-02",
+      "description": "JOLOF RICE",
+      "category": "Food",
+      "amount": "50",
+      "id": 13
+    },
+    {
+      "date": "2023-03-10",
+      "description": "ALOKO ",
+      "category": "Food",
+      "amount": "60",
+      "id": 14
+    },
+    {
+      "date": "2023-03-18",
+      "description": "Trip to France",
+      "category": "Transportation",
+      "amount": "600",
+      "id": 18
+    },
+    {
+      "date": "2023-03-02",
+      "description": "Rodeo",
+      "category": "Entertainment",
+      "amount": "70",
+      "id": 19
     }
   ]
 }
